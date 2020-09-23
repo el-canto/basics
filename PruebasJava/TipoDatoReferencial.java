@@ -1,6 +1,7 @@
 import java.text.NumberFormat;
 import java.util.Scanner;
 //LIMPIO
+//1;
 
 public class TipoDatoReferencial {
 

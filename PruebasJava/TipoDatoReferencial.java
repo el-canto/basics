@@ -1,12 +1,6 @@
 import java.text.NumberFormat;
 import java.util.Scanner;
-<<<<<<< HEAD
-//QQQQQQQQQQQQQQQQQQQQQQ
-=======
-//############################
-123451234512345123451234512345123451234512345123451234512345
-
->>>>>>> modificacionesEFE
+//LIMPIO
 
 public class TipoDatoReferencial {
 

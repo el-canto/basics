@@ -1,3 +1,3 @@
 # basics
-Rudimentos
+Rudimentos.
 No merece la pena leerme

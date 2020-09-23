@@ -1,16 +1,6 @@
 import java.text.NumberFormat;
 import java.util.Scanner;
-//############################
-//PRUEBA DE BRANCH GIT
-//#########################
-//############################
-
-//JJJJJJJJJJJJJJJJJJJJJJJJJJ
-//JJJJJJJJJJJJJJJJJJJJJJJJJ
-//JJJJJJJJJJJJJJJJJJJJJJJJJJJ
-
-
-//PPPPPPPPPPPPPPP
+//QQQQQQQQQQQQQQQQQQQQQQ
 
 public class TipoDatoReferencial {
 
